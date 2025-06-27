@@ -1,6 +1,6 @@
 # Sunbird Taxonomy Editor
 
-This is the official repository for the Sunbird Taxonomy Editor, a web-based tool for creating, managing, and visualizing taxonomies.
+This is the official repository for the Sunbird Taxonomy Editor, a web-based tool for creating, managing, and visualizing taxonomies..
 
 ## Prerequisites
 
